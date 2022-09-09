@@ -1,0 +1,26 @@
+{
+  "gardonyiCmsApp": {
+    "post": {
+      "home": {
+        "title": "Posts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Egy új Post létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Postt",
+        "notFound": "No Posts found"
+      },
+      "created": "Egy új Post lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Post módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Post törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Postt {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Post"
+      },
+      "id": "ID",
+      "title": "Title",
+      "content": "Content",
+      "author": "Author"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "applications": "*",
+  "changelogDate": "20220906125411",
+  "dto": "mapstruct",
+  "embedded": false,
+  "entityTableName": "page",
+  "fields": [
+    {
+      "fieldName": "title",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "content",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Page",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceImpl"
+}

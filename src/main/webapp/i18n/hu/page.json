@@ -1,0 +1,25 @@
+{
+  "gardonyiCmsApp": {
+    "page": {
+      "home": {
+        "title": "Pages",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Egy új Page létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Paget",
+        "notFound": "No Pages found"
+      },
+      "created": "Egy új Page lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Page módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Page törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Paget {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Page"
+      },
+      "id": "ID",
+      "title": "Title",
+      "content": "Content"
+    }
+  }
+}
